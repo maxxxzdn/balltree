@@ -3,8 +3,8 @@ requires = ["setuptools", "wheel", "cython", "numpy"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "balltree"
-version = "0.1.2"
+name = "balltree-erwin"
+version = "0.1.0"
 description = "Fast parallel ball tree construction for machine learning"
 readme = "README.md"
 license = {text = "MIT"}

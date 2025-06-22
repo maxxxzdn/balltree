@@ -30,8 +30,8 @@ ext_modules = [
 ]
 
 setup(
-    name="balltree",
-    version="0.1.2",
+    name="balltree-erwin",
+    version="0.1.0",
     description="Fast parallel ball tree construction for machine learning",
     long_description=open("README.md").read() if os.path.exists("README.md") else "",
     long_description_content_type="text/markdown",

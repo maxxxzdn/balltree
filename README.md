@@ -7,7 +7,6 @@ A fast, parallel ball tree implementation with PyTorch integration, built using 
 - **High Performance**: Optimized C++ implementation with OpenMP parallelization
 - **PyTorch Integration**: Native support for PyTorch tensors
 - **Flexible API**: Multiple interfaces for different use cases
-- **Cross-Platform**: Works on Linux, macOS, and Windows
 - **Memory Efficient**: Efficient memory usage and management
 
 ## Installation
@@ -15,7 +14,7 @@ A fast, parallel ball tree implementation with PyTorch integration, built using 
 ### From PyPI
 
 ```bash
-pip install balltree
+pip install balltree-erwin
 ```
 
 ### From Source
